@@ -15,7 +15,8 @@ paginate:            10
 # About/contact
 author:
   name:              Joshua van Besouw
-  url:               https://github.com/OdinsPlasmaRifle
+  github:            https://github.com/OdinsPlasmaRifle
+  url:               http://odinsplasmarifle.github.io
   email:             
 
 # Custom vars
