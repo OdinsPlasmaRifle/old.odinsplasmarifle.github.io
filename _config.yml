@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               OdinsPlasmaRifle
-tagline:             'A blog'
+tagline:             'Random stuff'
 description:         'The personal blog of Joshua van Besouw'
 url:                 http://odinsplasmarifle.github.io
 baseurl:             ''
@@ -17,7 +17,7 @@ author:
   name:              Joshua van Besouw
   github:            https://github.com/OdinsPlasmaRifle
   url:               http://odinsplasmarifle.github.io
-  email:             
+  email:
 
 # Custom vars
 version:             1.0.0
