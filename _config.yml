@@ -10,7 +10,7 @@ tagline:             'Random stuff'
 description:         'The personal blog of Joshua van Besouw'
 url:                 http://odinsplasmarifle.github.io
 baseurl:             ''
-paginate:            10
+paginate:            5
 
 # About/contact
 author:
