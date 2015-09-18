@@ -3,14 +3,13 @@ layout: page
 title: About
 ---
 
-<p class="message">
-"Twas brillig and the slithy toves did gyre and gimble in the wabe
-All mimsy were the borogroves and the mome raths outgrabe." - Jabberwocky, Lewis Carroll
-</p>
+> Twas brillig and the slithy toves did gyre and gimble in the wabe
+> All mimsy were the borogroves and the mome raths outgrabe.
+> <cite>Lewis Carroll, Jabberwocky</cite>
 
 I use this blog to share an assortment of topics covering anything and everything. From Web Development to Poetry I cannot guarantee any consistency. I'll just post whatever suits me at the moment. 
 
-### About Me
+### About me
 
 I am currently based in Cape Town where I work as web developer at <a href="http://limabean.agency">Limabean</a>. Most of my work is in PHP (LAMP), jQuery and HTML5 but I have a keen interest in broadening my skillset and as such have worked with Java and Python as well. Although I'm a fairly competent front end developer my interests are more focused on back end and server residing code.
 
