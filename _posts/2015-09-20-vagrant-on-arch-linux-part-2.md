@@ -12,7 +12,7 @@ In [Part 1]({% post_url 2015-09-20-vagrant-on-arch-linux-part-1 %}) I gave instr
 
 ##Set up the Vagrant Box
 
-The first step is to either build or download the Vagrant config files for the Vagrant setup. For simplicities sake we'll be creating an Ubuntu Virtual Box that includes a LAMP stack. There are plenty pre-compiled vagrant files for Ubuntu 14 but for this exmaple we will use the following repository:
+The first step is to either build or download the Vagrant config files for the Vagrant setup. For simplicity's sake we'll be creating an Ubuntu Virtual Box that includes a LAMP stack. There are plenty pre-compiled vagrant files for Ubuntu 14 but for this exmaple we will use the following repository:
 
     https://github.com/mattandersen/vagrant-lamp
 
