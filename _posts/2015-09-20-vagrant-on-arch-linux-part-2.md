@@ -8,11 +8,11 @@ comments: true
 
 ![Vagrant Banner](/public/images/posts/vagrant_banner.png)
 
-In **part 1** I gave instructions on how to install Vagrant and VirtualBox on Arch Linux. In **Part 2** I'll give step by step instructions on how to set up a full Ubuntu (Ubuntu 14.04 Trusty Tahr) Vagrant box.
+In [Part 1]({% post_url 2015-09-20-vagrant-on-arch-linux-part-1 %}) I gave instructions on how to install Vagrant and VirtualBox on Arch Linux. In [Part 2]({% post_url 2015-09-20-vagrant-on-arch-linux-part-2 %}) I'll give step by step instructions on how to set up a full Ubuntu (Ubuntu 14.04 Trusty Tahr) Vagrant box.
 
-##Setup the Vagrant Box
+##Set up the Vagrant Box
 
-The first step is to either build or download the Vagrant config files for the Vagrant setup. For simplicities sake we'll be creating an Ubuntu Virtual Box that includes a LAMP stack pre-installed. There are plenty pre-compiled vagrant files for Ubuntu 14 but for this exmaple we will use the following repository:
+The first step is to either build or download the Vagrant config files for the Vagrant setup. For simplicities sake we'll be creating an Ubuntu Virtual Box that includes a LAMP stack. There are plenty pre-compiled vagrant files for Ubuntu 14 but for this exmaple we will use the following repository:
 
     https://github.com/mattandersen/vagrant-lamp
 
@@ -22,12 +22,12 @@ Now, in your home directory (eg. /home/{your_name}/) make a folder called 'Webse
 
 Navigate into webserver and add 2 folders:  'trusty' and 'sites'. The 'trusty' folder will house the vagrant config files. While the 'sites' folder will be a location that is synced between localhost and the Virtual Box.
 
-Next, move or copy the following files from the vagrant-lamp folder you downloaded above to the trusty folder you just created:
+Next, move or copy the following files from the vagrant-lamp folder you downloaded above to the 'trusty' folder you just created:
 
     Vagrantfile
     provision.sh
 
-In order to make the vagrant box useful for development we need to make a few configuration changes, You can do this by editting the 'Vagrantfile' to look like this:
+In order to make the Vagrant Box useful for development we need to make a few configuration changes, You can do this by editting the 'Vagrantfile' to look like this:
 
     # -*- mode: ruby -*-
     # vi: set ft=ruby :
@@ -70,13 +70,13 @@ You will now have to create the Virtual Box using Vagrant. This can be done via 
 
     $ vagrant up
 
-This command will create an Ubuntu box and install any other requirements specified in the provisions file (Apache, PHP, etc.). Now might be a good opportunity to take a moment to look at the provisions.sh file so you can get a better understanding of how Vagrant actually does its thing.
+This command will create an Ubuntu box and install any other requirements specified in the provisions file (Apache, PHP, etc.). Now might be a good opportunity to take a moment to look at the 'provisions.sh' file so you can get a better understanding of how Vagrant actually does its thing.
 
 Once the command is complete it will also run the virtual box so that you can imemdiately start making use of it. In future you will use the same '$ vagrant up' command to just run the already installed box.
 
 * * *
 
-See **Part 3** of this guide to learn how to make use of Vagrant on your new virtual box.
+See [Part 3]({% post_url 2015-09-20-vagrant-on-arch-linux-part-3 %}) of this guide to learn how to make use of Vagrant on your new virtual box.
 
 ###Further reading:
 
