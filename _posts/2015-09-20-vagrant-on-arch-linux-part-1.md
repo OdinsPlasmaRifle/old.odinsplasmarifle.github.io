@@ -16,7 +16,7 @@ In this three part guide I will be providing basic instructions on how to get Va
 
 ##Install Vagrant
 
-To get started, open a teminal and run the following:
+To get started, open a terminal and run the following:
 
     $ sudo pacman -S vagrant
 
