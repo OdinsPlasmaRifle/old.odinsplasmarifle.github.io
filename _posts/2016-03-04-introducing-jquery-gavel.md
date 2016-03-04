@@ -6,13 +6,13 @@ comments: true
 
 *A simple jQuery validation plugin.*
 
-I've always found it annoying how most javascript/jQuery validation plugins are either extremly hard to customize or extraordinarily bloated. Every time I needed to do something a  little more complex than the norm I was faced with having to add clunky additions, switch to another plugin or in the worst cases switch to fully custom validation. As a result I decided to make an attempt at something a little more practical.
+I've always found it annoying how most javascript/jQuery validation plugins are either extremely hard to customize or extraordinarily bloated. Every time I needed to do something a  little more complex than the norm I was faced with having to add clunky additions, switch to another plugin or in the worst cases switch to fully custom validation. As a result I decided to make an attempt at something a little more practical.
 
 ![Vagrant Banner](/public/images/posts/gavel_banner.jpg)
 
 ##jQuery Gavel
 
-[Gavel](https://github.com/OdinsPlasmaRifle/jquery.gavel) was born form annoyance. I can't say it is better than alternatives but it definietly was a worthwhile learning experience. It gets its job done with minimal hassle and when anything more complex is needed it has a simple set of easily extendable functions.
+[Gavel](https://github.com/OdinsPlasmaRifle/jquery.gavel) was born form annoyance. I can't say it is better than alternatives but it definitely was a worthwhile learning experience. It gets its job done with minimal hassle and when anything more complex is needed it has a simple set of easily extendable functions.
 
 So, if at any point you in need a simple, very lightweight plugin give Gavel a try. It is quite easy:
 
