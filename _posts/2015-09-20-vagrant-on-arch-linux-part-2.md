@@ -10,7 +10,7 @@ comments: true
 
 In [Part 1]({% post_url 2015-09-20-vagrant-on-arch-linux-part-1 %}) I gave instructions on how to install Vagrant and VirtualBox on Arch Linux. In [Part 2]({% post_url 2015-09-20-vagrant-on-arch-linux-part-2 %}) I'll give step by step instructions on how to set up a full Ubuntu (Ubuntu 14.04 Trusty Tahr) Vagrant box.
 
-##Set up the Vagrant Box
+## Set up the Vagrant Box
 
 The first step is to either build or download the Vagrant config files for the Vagrant setup. For simplicity's sake we'll be creating an Ubuntu Virtual Box that includes a LAMP stack. There are plenty pre-compiled vagrant files for Ubuntu 14 but for this exmaple we will use the following repository:
 
@@ -64,7 +64,7 @@ The other addition to the file enables networking and gives the Virtual Box an I
 
     config.vm.network "private_network", ip: "192.168.56.55"
 
-##Install the Virtual Box
+## Install the Virtual Box
 
 You will now have to create the Virtual Box using Vagrant. This can be done via a single command. Navigate to the 'trusty' directory and run this:
 
@@ -78,7 +78,7 @@ Once the command is complete it will also run the virtual box so that you can im
 
 See [Part 3]({% post_url 2015-09-20-vagrant-on-arch-linux-part-3 %}) of this guide to learn how to make use of Vagrant on your new virtual box.
 
-###Further reading:
+### Further reading:
 
 [Vagrant docs](https://docs.vagrantup.com/v2/)
 

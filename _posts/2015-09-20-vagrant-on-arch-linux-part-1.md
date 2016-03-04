@@ -14,7 +14,7 @@ In short, Vagrant is a tool you can use to configure and set up virtual environm
 
 In this three part guide I will be providing basic instructions on how to get Vagrant up and running within Arch Linux. In order to illustrate a use-case I will also show how an Ubuntu LAMP stack can be configured and later used within development.
 
-##Install Vagrant
+## Install Vagrant
 
 To get started, open a terminal and run the following:
 
@@ -22,7 +22,7 @@ To get started, open a terminal and run the following:
 
 This will install the Vagrant software via pacman, the Arch package manager.
 
-##Install VirtualBox 
+## Install VirtualBox 
 
 Seeing as Vagrant is a wrapper for virtualization software, rather than the software itself, we will also need to install additional packages.
 
@@ -34,7 +34,7 @@ Enter the following command to install VirtualBox:
 
 Once the VirtualBox installation is complete, several optional dependencies will be listed. Install them via pacman as well.
 
-##Probe the Kernel Modules
+## Probe the Kernel Modules
 
 Next, run these commands to install and probe the kernel modules
 
@@ -64,7 +64,7 @@ This finishes the first step of installing Vagrant. You should now have a fully 
 
 See [Part 2]({% post_url 2015-09-20-vagrant-on-arch-linux-part-2 %}) of this guide to learn how to set up an Ubuntu virtual box using Vagrant.
 
-###Further reading:
+### Further reading:
 
 [Vagrant docs](https://docs.vagrantup.com/v2/)
 

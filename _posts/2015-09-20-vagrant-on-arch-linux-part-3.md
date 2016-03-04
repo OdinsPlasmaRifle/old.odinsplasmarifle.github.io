@@ -10,7 +10,7 @@ comments: true
 
 In [Part 1]({% post_url 2015-09-20-vagrant-on-arch-linux-part-1 %}) and [Part 2]({% post_url 2015-09-20-vagrant-on-arch-linux-part-2 %}) I addressed installation and configuration of a simple Vagrant box. In this last part of the guide I'll take a look at basic usage as well as one of the many ways you could make use of your Virtual Box for development.
 
-##Vagrant Usage
+## Vagrant Usage
 
 If you followed the instructions in Part 1 to 2, the Ubuntu Virtual Box should be completely installed. So, now would be a good time to look at some of the basic Vagrant commands. For any adidtional commands, not mentoned here, take a look at the Vagrant docs linked at the end of this article.
 
@@ -45,7 +45,7 @@ As per the 'Vagrantfile', any work done in '/home/{your_name}/webserver/sites' w
 
     /var/www/html/
 
-##LAMP usage
+## LAMP usage
 
 Now, seeing as the goal of the virtual box is to allow for a 'Real Life' server environment while still developing locally we will want a way to access the VM in our local browser. To do this we need to first set up a project's files. So, get one of your projects (can just be a "Hello World" index.html file if you wish) and place it in the synced directory,
 
@@ -83,7 +83,7 @@ I hope this guide has been useful to someone. Be sure to read both the Vagrant d
 
 Happy coding!
 
-###Further reading:
+### Further reading:
 
 [Vagrant docs](https://docs.vagrantup.com/v2/)
 
