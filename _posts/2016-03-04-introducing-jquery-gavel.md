@@ -20,7 +20,7 @@ So, if at any point you in need a simple, very lightweight plugin give Gavel a t
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="jquery.gavel.js"></script>
 <form method="GET" name="example" id="example">
-    <input name="example_input1" type="text" data-gavel data-gavel-rules="required|alphabetic"/>
+    <input name="example_input1" type="text" data-gavel="required|alphabetic"/>
     <input value="Submit" id="submit" type="submit"/>
 </form>
 ```
@@ -34,7 +34,7 @@ Basically, you just need to indicate what fields are handled by Gavel by adding 
 Then you can add all the validation rules you require:
 
 ```html
-<input name="example_input1" type="text" data-gavel data-gavel-rules="required|alphabetic"/>
+<input name="example_input1" type="text" data-gavel="required|alphabetic"/>
 ```
 
 Finally, initiate the plugin on the form:
@@ -47,19 +47,21 @@ The following is a list of rules available to Gavel by default:
 
 Rule | Usage
 ---- | -----
-alphanumeric | data-gavel-rules="alphanumeric"
-numeric | data-gavel-rules="numeric"
-alphabetic | data-gavel-rules="alphabetic"
-email | data-gavel-rules="email"
-telephone | data-gavel-rules="telephone"
-date | data-gavel-rules="date"
-required | data-gavel-rules="required"
-match | data-gavel-rules="match[name_of_element_to_match]"
-min | data-gavel-rules="min[10]"
-max | data-gavel-rules="max[15]"
+alphanumeric | data-gavel="alphanumeric"
+numeric | data-gavel="numeric"
+alphabetic | data-gavel="alphabetic"
+email | data-gavel="email"
+telephone | data-gavel="telephone"
+date | data-gavel="date"
+required | data-gavel="required"
+match | data-gavel="match[name_of_element_to_match]"
+min | data-gavel="min[10]"
+max | data-gavel="max[15]"
 
 
 ### Further reading:
 
 [Gavel docs](https://github.com/OdinsPlasmaRifle/jquery.gavel/blob/master/README.md)
+
+(edited to take into account Gavel 1.2.0 changes)
 
