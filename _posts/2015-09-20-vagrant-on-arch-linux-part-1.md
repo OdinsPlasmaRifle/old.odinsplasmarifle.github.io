@@ -10,6 +10,8 @@ comments: true
 
 >Vagrant is a tool for building complete development environments. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases development/production parity, and makes the "works on my machine" excuse a relic of the past.
 
+<!--break-->
+
 In short, Vagrant is a tool you can use to configure and set up virtual environments. Do you need to test or develop a PHP web application within a Ubuntu 14 environment that emulates its production server? Vagrant will allow you to do this with ease.
 
 In this three part guide I will be providing basic instructions on how to get Vagrant up and running within Arch Linux. In order to illustrate a use-case I will also show how an Ubuntu LAMP stack can be configured and later used within development.
