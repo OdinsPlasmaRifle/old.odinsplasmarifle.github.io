@@ -16,6 +16,8 @@ X-Robots-Tag: noindex
 (…)
 ```
 
+<!--break-->
+
 ## The Apache problem
 
 I quickly realized this would be a much more elegant way to handle meta tags on large portions of a website. For instance, on a multitude of file types or even on a URI like `/ajax/`.
