@@ -8,7 +8,9 @@ comments: true
 
 I've always found it annoying how most javascript/jQuery validation plugins are either extremely hard to customize or extraordinarily bloated. Every time I needed to do something a  little more complex than the norm I was faced with having to add clunky additions, switch to another plugin or in the worst cases switch to fully custom validation. As a result I decided to make an attempt at something a little more practical.
 
-![Vagrant Banner](/public/images/posts/gavel_banner.jpg)
+<!--break-->
+
+![Gavel Banner](/public/images/posts/gavel_banner.jpg)
 
 ## jQuery Gavel
 
