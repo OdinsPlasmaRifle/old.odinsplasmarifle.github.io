@@ -7,6 +7,8 @@ title: About
 > All mimsy were the borogroves and the mome raths outgrabe.
 > <cite>Lewis Carroll, Jabberwocky</cite>
 
+![About Banner](/public/images/theme/about_banner.jpg)
+
 A place for me to vent, share and learn. I'm interested in a large range of topics. So, anything, from coding to poetry or art to games, may find find its way onto this blog.
 
 ### About me
