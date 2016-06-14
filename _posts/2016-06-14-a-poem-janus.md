@@ -13,6 +13,8 @@ a roar of energy as I trip up the stairs.
 Darkness and light,  
 A flash of pain, the sound flairs.  
 
+<!--break-->
+
 Titillating, scintillating  
 Energy pulsing in ribbons of sound.  
 My teeth grind.  
