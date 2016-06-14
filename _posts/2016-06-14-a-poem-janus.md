@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Poem: Janus
+title: A Poem - Janus
 comments: true
 ---
 
