@@ -4,7 +4,7 @@ title: A Poem: Janus
 comments: true
 ---
 
-*A poem I wrote about a particularly memorable friday night.*
+*A poem I wrote about a particularly memorable Friday night.*
 
 ## Janus
 
