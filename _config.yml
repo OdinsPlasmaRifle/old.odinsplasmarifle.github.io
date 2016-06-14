@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               OdinsPlasmaRifle
-tagline:             'Random stuff'
-description:         'The personal blog of Joshua van Besouw'
+tagline:             'Random stuff and nonsense'
+description:         'Some random knowledge, a couple experiments and quite a lot of stupid ideas by Joshua van Besouw.'
 url:                 http://odinsplasmarifle.github.io
 baseurl:             ''
 paginate:            5
