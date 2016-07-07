@@ -54,7 +54,7 @@ On Friday, we started the last 2 days of hiking. The group split, due to some of
 
 We woke up about an hour earlier than normal on Saturday, our last day of hiking. I felt quite refreshed. We had a little under 20km to do before reaching Ai Ai's. This was the most "grindy" part of the hike, probably due to how tired I was. However, the canyon didn't get any less beautiful. Fortunately , the trail consisted of a lot of solid ground and there were very few rocky areas. My knees started to feel very weak at about lunch time. However we had made extremely good time and I realized we were approaching Ai Ai's when I started to see signs of civilization: a water pump building, a long supply pipe alongside the path and eventually a couple other hikers taking a stroll up the river from the nearby camp site. At around 13:30 it was a huge relief, after a long stretch of fine white river sand, to climb a short section of stairs and see the resort spread out before me.
 
-![Hiking Saturday](/public/images/posts/fish_river_canyon_2016/hiking_saturday-min.JPG)
+![Hiking Saturday](/public/images/posts/fish_river_canyon_2016/hiking_saturday-min.jpg)
 
 After managing to make a last minute booking at Ai Ais, I ate a plate of chips and Russian sausages, had a gloriously long shower and then spent some time basking in the hot springs. Just to top the experience off I took another shower and headed off to supper to enjoy some eland steak. The next morning I drove 10 hours back to Cape Town, ate a stack of unhealthy snacks, and had a Gibson's burger and Häagen-Dazs for supper.
 
