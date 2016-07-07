@@ -10,13 +10,13 @@ comments: true
 
 ## Fish River Canyon
 
-I took a week of leave this June and hiked the Fish River Canyon with my girlfriend and other friends and acquaintances. In total there were 12 of us in the hiking group. It was an extremely rewarding experience and I'd recommend it to anyone who doesn't mind roughing it, is decently fit and wants a break from daily life that will feel much longer than the actual time spent hiking. There are no facilities, including no cellphone signal, so everything you need/want must be carried along with you: food, cooking gear, clothes, eating utensils, toilet paper etc.
+I took a week of leave this June and hiked the Fish River Canyon with my girlfriend, Sam, and other friends and acquaintances. In total there were 12 of us in the hiking group. It was an extremely rewarding experience and I'd recommend it to anyone who doesn't mind roughing it, is decently fit and wants a break from daily life that will feel much longer than the actual time spent hiking. There are no facilities, including no cellphone signal, so everything you need/want must be carried along with you: food, cooking gear, clothes, eating utensils, toilet paper etc.
 
 <!--break-->
 
 ![Hiking Decent](/public/images/posts/fish_river_canyon_2016/hiking_decent.jpg)
 
-Normally the canyon is done in 4 nights (around 5 days of hiking). My group decided to do it a bit differently and we descended into the canyon late in the afternoon. Instead of walking a several kilometers beyond the decent we stopped and set up camp on the river bank. This was a good idea as it allowed us to have some time to swim and spend a chilled evening together before a proper day of hiking. For me and my girlfriend's first night in the canyon we spoiled ourselves with pasta and bolognese sauce (mostly I just wanted to get rid of the extra weight).
+Normally the canyon is done in 4 nights (around 5 days of hiking). My group decided to do it a bit differently and we descended into the canyon late in the afternoon. Instead of walking a several kilometers beyond the decent we stopped and set up camp on the river bank. This was a good idea as it allowed us to have some time to swim and spend a chilled evening together before a proper day of hiking. For Sam and I's first night in the canyon we spoiled ourselves with pasta and bolognese sauce (mostly I just wanted to get rid of the extra weight).
 
 ![Hiking Bottom](/public/images/posts/fish_river_canyon_2016/hiking_bottom.jpg)
 
@@ -28,7 +28,7 @@ The next morning the group started the hike properly. The start of Fish River ca
 
 ![Hiking Start](/public/images/posts/fish_river_canyon_2016/hiking_start.jpg)
 
-On our first day we made our final stop for the day after around 8km (rather than walking an additional 2 km to the next appropriate camping area). The second night was far better than the first, as me and my girlfriend carved out a more elaborate beds in the soft sand beneath our sleeping mats. In addition, there was basically no wind. We still had to contend with the moon, but I was getting used to sleeping with a pulled down beanie so it wasn't too inconvenient (although for the duration if the hike I tended to wake up several times each night).
+On our first day we made our final stop for the day after around 8km (rather than walking an additional 2 km to the next appropriate camping area). The second night was far better than the first, as Sam and I carved out a more elaborate beds in the soft sand beneath our sleeping mats. In addition, there was basically no wind. We still had to contend with the moon, but I was getting used to sleeping with a pulled down beanie so it wasn't too inconvenient (although for the duration if the hike I tended to wake up several times each night).
 
 ![Hiking Tuesday](/public/images/posts/fish_river_canyon_2016/hiking_tuesday.jpg)
 
@@ -44,7 +44,7 @@ Wednesday night was spent at a pretty location alongside the river. The water wa
 
 ![Hiking Wednesday](/public/images/posts/fish_river_canyon_2016/hiking_wednesday_3.jpg)
 
-Thursday was the day our hiking pace shifted to a great degree, mostly due to much more friendly terrain. We made really good ground and there was a section where it felt like we were freight-training past all the sites in order to get to the 40km marker. We made camp along a very wide sandy river bank. Parts of it were very damp so my girlfriend and I camped in dryer sand quite far from the river. Shortly before preparing dinner a small herd of 5 or 6 Kudu galloped past the campsite along the rocky canyon side. It was fascinating to see them moving so fast on the treacherous rocks and loose gravel. The rest of the night was mostly uneventful although quite chilly.
+Thursday was the day our hiking pace shifted to a great degree, mostly due to much more friendly terrain. We made really good ground and there was a section where it felt like we were freight-training past all the sites in order to get to the 40km marker. We made camp along a very wide sandy river bank. Parts of it were very damp so Sam and I camped in dryer sand quite far from the river. Shortly before preparing dinner a small herd of 5 or 6 Kudu galloped past the campsite along the rocky canyon side. It was fascinating to see them moving so fast on the treacherous rocks and loose gravel. The rest of the night was mostly uneventful although quite chilly.
 
 ![Hiking Wednesday](/public/images/posts/fish_river_canyon_2016/hiking_thursday.jpg)
 
