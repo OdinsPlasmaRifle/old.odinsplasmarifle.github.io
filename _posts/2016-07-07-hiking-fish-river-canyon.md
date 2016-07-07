@@ -16,7 +16,7 @@ I took a week of leave this June and hiked the Fish River Canyon with my girlfri
 
 ![Hiking Decent](/public/images/posts/fish_river_canyon_2016/hiking_decent-min.jpg)
 
-Normally the canyon is done in 4 nights (around 5 days of hiking). My group decided to do it a bit differently and we descended into the canyon late in the afternoon. Instead of walking a several kilometers beyond the decent we stopped and set up camp on the river bank. This was a good idea as it allowed us to have some time to swim and spend a chilled evening together before a proper day of hiking. For Sam and I's first night in the canyon we spoiled ourselves with pasta and bolognese sauce (mostly I just wanted to get rid of the extra weight).
+Normally the canyon is done in 4 nights (around 5 days of hiking). My group decided to do it a bit differently and we descended into the canyon late in the afternoon. Instead of walking a several kilometers beyond the decent we stopped and set up camp on the river bank. This was a good idea as it allowed us to have some time to swim and spend a chilled evening together before a proper day of hiking. For our first night in the canyon, Sam and I both spoiled ourselves with pasta and bolognese sauce (mostly I just wanted to get rid of the extra weight).
 
 ![Hiking Bottom](/public/images/posts/fish_river_canyon_2016/hiking_bottom-min.jpg)
 
