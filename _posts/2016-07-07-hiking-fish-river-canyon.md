@@ -4,7 +4,7 @@ title: Hiking - Fish River Canyon
 comments: true
 ---
 
-*An epic 90km journey down the Fish River Canyon.
+*An epic 90km journey down the Fish River Canyon.*
 
 ![Hiking Banner](/public/images/posts/fish_river_canyon_2016/hiking_banner-min.jpg)
 
