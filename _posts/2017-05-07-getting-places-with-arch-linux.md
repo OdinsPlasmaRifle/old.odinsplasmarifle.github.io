@@ -329,7 +329,7 @@ is an endless pursuit. As long as you have the time and dedication you can turn 
 
 For some general recommendations, software tips and additional system hardening take a look at:
 
-[General Recommendations](https://wiki.archlinux.org/index.php/general_recommendations)
-[Applications](https://wiki.archlinux.org/index.php/list_of_applications)
-[Security and Hardening](https://wiki.archlinux.org/index.php/security)
+[General Recommendations](https://wiki.archlinux.org/index.php/general_recommendations)  
+[Applications](https://wiki.archlinux.org/index.php/list_of_applications)  
+[Security and Hardening](https://wiki.archlinux.org/index.php/security)  
 
