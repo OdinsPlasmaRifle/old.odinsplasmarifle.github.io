@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               OdinsPlasmaRifle
-tagline:             'Random stuff and nonsense'
-description:         'Some random knowledge, a couple experiments and quite a lot of stupid stuff by Joshua van Besouw.'
+tagline:             'Stuff and nonsense'
+description:         'A wild coder appears!'
 url:                 http://odinsplasmarifle.github.io
 baseurl:             ''
 paginate:            5
