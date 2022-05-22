@@ -8,6 +8,8 @@ comments: true
 
 ![Arch Linux Banner](/public/images/posts/arch_linux_banner.png)
 
+**NB**: This blog article it out of date, if you want to install Arch Linux using LVM on LUKS you should take a look [here]([https://wiki.archlinux.org/](https://gist.github.com/OdinsPlasmaRifle/e16700b83624ff44316f87d9cdbb5c94)).
+
 ## A New Dawn
 
 Not so long ago, as a part of my on-going attempt to improve my understanding of Linux, I decided to install 
